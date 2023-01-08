@@ -1,4 +1,6 @@
 -- Bedlam Cube in Haskell
+-- Copyright 2005-2023 Simon Guest
+-- Licensed under GNU General Public License v3
 
 module Main where
 
